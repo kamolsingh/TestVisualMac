@@ -8,6 +8,7 @@ namespace TestPushProfject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Jupiter!");
+            Console.WriteLine("Hello Earth!");
         }
     }
 }
